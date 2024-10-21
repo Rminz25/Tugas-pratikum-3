@@ -43,6 +43,9 @@ else:
 ```
 # Hasil screenshot di visualstudiocode
 
+![Screenshot 2024-10-21 210241](https://github.com/user-attachments/assets/cefd5065-484b-49dc-8838-badf7bedbe55)
+
+![Screenshot 2024-10-21 210229](https://github.com/user-attachments/assets/2824c6cd-2f2b-467d-a0c4-9f4687907df7)
 
 
 # Berikut adalah flowchartnya
@@ -119,7 +122,9 @@ else:
 
 # Hasil screenshot di visualstudiocode
 
+![Screenshot 2024-10-21 205755](https://github.com/user-attachments/assets/ffadff60-db51-4cfe-82c0-a986d3fd53f8)
 
+![Screenshot 2024-10-21 205803](https://github.com/user-attachments/assets/927c461d-5260-4053-b65b-6dfc99883628)
 
 # Berikut adalah flowchartnya
 
