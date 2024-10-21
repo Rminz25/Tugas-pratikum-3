@@ -50,6 +50,8 @@ else:
 
 # Berikut adalah flowchartnya
 
+![WhatsApp Image 2024-10-21 at 21 23 50](https://github.com/user-attachments/assets/44ee11ac-a4bd-4e30-ba44-68e9b9f77d6e)
+
 
 
 ## Penjelasan Kode
@@ -128,6 +130,7 @@ else:
 
 # Berikut adalah flowchartnya
 
+![GARCIA FLOWCHART](https://github.com/user-attachments/assets/1e9c9023-9e3f-4392-aa03-564101ff08bb)
 
 
 ## Penjelasan Kode
